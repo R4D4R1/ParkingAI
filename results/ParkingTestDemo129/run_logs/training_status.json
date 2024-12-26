@@ -1,0 +1,110 @@
+{
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 3749985,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3749985.onnx",
+                "reward": 760.577458395112,
+                "creation_time": 1735223046.7279503,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3749985.pt"
+                ]
+            },
+            {
+                "steps": 3774961,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3774961.onnx",
+                "reward": 756.4392097384742,
+                "creation_time": 1735223078.4272568,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3774961.pt"
+                ]
+            },
+            {
+                "steps": 3799925,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3799925.onnx",
+                "reward": null,
+                "creation_time": 1735223115.6955988,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3799925.pt"
+                ]
+            },
+            {
+                "steps": 3824951,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3824951.onnx",
+                "reward": 732.5416671611645,
+                "creation_time": 1735223145.8316834,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3824951.pt"
+                ]
+            },
+            {
+                "steps": 3849891,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3849891.onnx",
+                "reward": 782.1490712191747,
+                "creation_time": 1735223177.9016235,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3849891.pt"
+                ]
+            },
+            {
+                "steps": 3874931,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3874931.onnx",
+                "reward": 839.1075944387251,
+                "creation_time": 1735223210.14683,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3874931.pt"
+                ]
+            },
+            {
+                "steps": 3899979,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3899979.onnx",
+                "reward": 764.8640315908452,
+                "creation_time": 1735223242.9553938,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3899979.pt"
+                ]
+            },
+            {
+                "steps": 3924942,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3924942.onnx",
+                "reward": 928.6969692025866,
+                "creation_time": 1735223278.650576,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3924942.pt"
+                ]
+            },
+            {
+                "steps": 3949909,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3949909.onnx",
+                "reward": 901.77933723186,
+                "creation_time": 1735223311.1856906,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3949909.pt"
+                ]
+            },
+            {
+                "steps": 3968015,
+                "file_path": "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3968015.onnx",
+                "reward": 867.2881470680237,
+                "creation_time": 1735223414.9621403,
+                "auxillary_file_paths": [
+                    "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3968015.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3968015,
+            "file_path": "results\\ParkingTestDemo129\\CarBehavior.onnx",
+            "reward": 867.2881470680237,
+            "creation_time": 1735223414.9621403,
+            "auxillary_file_paths": [
+                "results\\ParkingTestDemo129\\CarBehavior\\CarBehavior-3968015.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}
